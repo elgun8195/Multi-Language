@@ -1,0 +1,34 @@
+﻿@model List<KeyValuePair<string, string>>
+
+@{
+    ViewData["Title"] = "List Resources";
+}
+
+<h2>List of Resources</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Resource Name</th>
+            <th>Resource Value</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var resource in Model)
+        {
+            <tr>
+                <td>@resource.Key</td>
+                <td>@resource.Value</td>
+                <td>
+                    <form asp-action="DeleteResource" method="post" style="display:inline">
+                        <input type="hidden" name="name" value="@resource.Key" />
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="AddResource" class="btn btn-primary">Add New Resource</a>

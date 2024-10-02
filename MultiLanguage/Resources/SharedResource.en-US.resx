@@ -120,4 +120,10 @@
   <data name="Welcome" xml:space="preserve">
     <value>Welcome eng</value>
   </data>
+  <data name="Salam bu bir qaycidir">
+    <value>Salam bu bir qaycidir</value>
+  </data>
+  <data name="Salam bu bir guzgudur">
+    <value>Salam bu bir guzgudur</value>
+  </data>
 </root>

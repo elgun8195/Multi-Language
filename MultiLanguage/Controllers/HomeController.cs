@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Localization;
 using Microsoft.AspNetCore.Mvc;
+using MultiLanguage.DAL;
 using MultiLanguage.Models;
 using MultiLanguage.Services;
 using System.Diagnostics;
@@ -9,18 +10,21 @@ namespace MultiLanguage.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly AppDbContext _context;
         private LanguageService _localization;
-        public HomeController(ILogger<HomeController> logger, LanguageService localization)
+        public HomeController(ILogger<HomeController> logger, LanguageService localization, AppDbContext context)
         {
             _logger = logger;
             _localization = localization;
+            _context = context;
         }
 
         public IActionResult Index()
         {
-            ViewBag.Welcome = _localization.Getkey("Welcome").Value;
+           // ViewBag.Welcome = _localization.Getkey("Welcome").Value;
             var currentCulture = Thread.CurrentThread.CurrentCulture.Name;
-            return View();
+            List<Product> products=_context.Products.ToList();
+            return View(products);
         }
 
         public IActionResult ChangeLanguage(string culture)

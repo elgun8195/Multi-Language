@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elgun\\source\\repos\\MultiLanguage\\MultiLanguage\\MultiLanguage.csproj": {}
+    "C:\\Users\\Elgun\\Desktop\\MultiLanguage\\MultiLanguage\\MultiLanguage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elgun\\source\\repos\\MultiLanguage\\MultiLanguage\\MultiLanguage.csproj": {
+    "C:\\Users\\Elgun\\Desktop\\MultiLanguage\\MultiLanguage\\MultiLanguage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elgun\\source\\repos\\MultiLanguage\\MultiLanguage\\MultiLanguage.csproj",
+        "projectUniqueName": "C:\\Users\\Elgun\\Desktop\\MultiLanguage\\MultiLanguage\\MultiLanguage.csproj",
         "projectName": "MultiLanguage",
-        "projectPath": "C:\\Users\\Elgun\\source\\repos\\MultiLanguage\\MultiLanguage\\MultiLanguage.csproj",
+        "projectPath": "C:\\Users\\Elgun\\Desktop\\MultiLanguage\\MultiLanguage\\MultiLanguage.csproj",
         "packagesPath": "C:\\Users\\Elgun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elgun\\source\\repos\\MultiLanguage\\MultiLanguage\\obj\\",
+        "outputPath": "C:\\Users\\Elgun\\Desktop\\MultiLanguage\\MultiLanguage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Elgun\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,36 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.17, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
