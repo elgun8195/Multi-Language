@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Localization;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
+using Microsoft.EntityFrameworkCore; 
 using Microsoft.Extensions.Options;
 using MultiLanguage.DAL;
 using MultiLanguage.Models;
