@@ -62,15 +62,12 @@ namespace MultiLanguage.Controllers
 
 
         public IActionResult ChangeLanguage(string culture)
-        {
-            // Çereze kültür bilgisi ekleniyor
+        { 
             Response.Cookies.Append(CookieRequestCultureProvider.DefaultCookieName,
                 CookieRequestCultureProvider.MakeCookieValue(new RequestCulture(culture)), new CookieOptions()
                 {
-                    Expires = DateTimeOffset.UtcNow.AddDays(7) // Süreyi uzattım
-                });
-
-            // Geçerli thread'in kültürünü güncelle
+                    Expires = DateTimeOffset.UtcNow.AddDays(7)  
+                }); 
             var cultureInfo = new CultureInfo(culture);
             Thread.CurrentThread.CurrentCulture = cultureInfo;
             Thread.CurrentThread.CurrentUICulture = cultureInfo;
@@ -83,11 +80,8 @@ namespace MultiLanguage.Controllers
         public IActionResult Privacy()
         {
             var currentCulture = Thread.CurrentThread.CurrentCulture.Name;
-
-            // Veritabanından tüm ürünleri al
-            List<Product> products = _context.Products.ToList();
-
-            // Mevcut kültüre göre lokalleştirme
+             
+            List<Product> products = _context.Products.ToList(); 
             foreach (var product in products)
             {
                 if (currentCulture == "tr-TR")

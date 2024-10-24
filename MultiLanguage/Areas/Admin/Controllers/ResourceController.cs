@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Mvc; 
 using MultiLanguage.DAL;
 using MultiLanguage.Models;
 using System.Xml.Linq;
@@ -85,8 +84,6 @@ namespace MultiLanguage.Areas.Admin.Controllers
 
             return RedirectToAction("index");
         }
-
-
         public IActionResult AddResource()
         {
             return View();
@@ -126,7 +123,6 @@ namespace MultiLanguage.Areas.Admin.Controllers
 
             return RedirectToAction("index");
         }
-
         private void UpdateResxFile(string resxFilePath, string name, string value)
         {
             XDocument resxFile = XDocument.Load(resxFilePath);
@@ -146,7 +142,6 @@ namespace MultiLanguage.Areas.Admin.Controllers
 
             resxFile.Save(resxFilePath);
         }
-
         [HttpPost]
         public IActionResult DeleteProduct(int id)
         {
@@ -170,7 +165,6 @@ namespace MultiLanguage.Areas.Admin.Controllers
 
             return RedirectToAction("index");
         }
-
         private void DeleteResourceFromResx(string resxFilePath, string name)
         {
             XDocument resxFile = XDocument.Load(resxFilePath);

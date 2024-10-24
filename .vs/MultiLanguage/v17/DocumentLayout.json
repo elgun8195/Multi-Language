@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{714346D8-1806-49DB-8717-A6EBC761FC69}|MultiLanguage\\MultiLanguage.csproj|c:\\users\\elgun\\desktop\\yazib sonra birlesdireceklerim\\multilanguage\\multilanguage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{714346D8-1806-49DB-8717-A6EBC761FC69}|MultiLanguage\\MultiLanguage.csproj|solutionrelative:multilanguage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{714346D8-1806-49DB-8717-A6EBC761FC69}|MultiLanguage\\MultiLanguage.csproj|c:\\users\\elgun\\desktop\\yazib sonra birlesdireceklerim\\multilanguage\\multilanguage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714346D8-1806-49DB-8717-A6EBC761FC69}|MultiLanguage\\MultiLanguage.csproj|solutionrelative:multilanguage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714346D8-1806-49DB-8717-A6EBC761FC69}|MultiLanguage\\MultiLanguage.csproj|c:\\users\\elgun\\desktop\\yazib sonra birlesdireceklerim\\multilanguage\\multilanguage\\areas\\admin\\controllers\\resourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714346D8-1806-49DB-8717-A6EBC761FC69}|MultiLanguage\\MultiLanguage.csproj|solutionrelative:multilanguage\\areas\\admin\\controllers\\resourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\MultiLanguage\\Program.cs",
-              "RelativeDocumentMoniker": "MultiLanguage\\Program.cs",
-              "ToolTip": "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\MultiLanguage\\Program.cs",
-              "RelativeToolTip": "MultiLanguage\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T20:48:00.1Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -36,6 +27,38 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResourceController.cs",
+              "DocumentMoniker": "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\MultiLanguage\\Areas\\Admin\\Controllers\\ResourceController.cs",
+              "RelativeDocumentMoniker": "MultiLanguage\\Areas\\Admin\\Controllers\\ResourceController.cs",
+              "ToolTip": "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\MultiLanguage\\Areas\\Admin\\Controllers\\ResourceController.cs",
+              "RelativeToolTip": "MultiLanguage\\Areas\\Admin\\Controllers\\ResourceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T21:13:30.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\MultiLanguage\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MultiLanguage\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\MultiLanguage\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MultiLanguage\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAMzMzMzM9wE8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T21:14:11.231Z",
+              "EditorCaption": ""
             }
           ]
         }
