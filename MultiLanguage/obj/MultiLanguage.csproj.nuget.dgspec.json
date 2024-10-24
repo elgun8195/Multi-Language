@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elgun\\Desktop\\MultiLanguage\\MultiLanguage\\MultiLanguage.csproj": {}
+    "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\MultiLanguage\\MultiLanguage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elgun\\Desktop\\MultiLanguage\\MultiLanguage\\MultiLanguage.csproj": {
+    "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\MultiLanguage\\MultiLanguage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elgun\\Desktop\\MultiLanguage\\MultiLanguage\\MultiLanguage.csproj",
+        "projectUniqueName": "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\MultiLanguage\\MultiLanguage.csproj",
         "projectName": "MultiLanguage",
-        "projectPath": "C:\\Users\\Elgun\\Desktop\\MultiLanguage\\MultiLanguage\\MultiLanguage.csproj",
+        "projectPath": "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\MultiLanguage\\MultiLanguage.csproj",
         "packagesPath": "C:\\Users\\Elgun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elgun\\Desktop\\MultiLanguage\\MultiLanguage\\obj\\",
+        "outputPath": "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\MultiLanguage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Elgun\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,7 +72,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[6.0.17, )"
+              "version": "[6.0.18, )"
             }
           },
           "imports": [

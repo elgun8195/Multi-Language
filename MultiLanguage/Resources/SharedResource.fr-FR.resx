@@ -118,12 +118,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Welcome" xml:space="preserve">
-    <value>Fransiz</value>
+    <value>Bonjur:)</value>
   </data>
-  <data name="Salam bu bir qaycidir">
-    <value>Bonjour, c'est une paire de ciseaux</value>
-  </data>
-  <data name="Salam bu bir guzgudur">
-    <value>Bonjour, c'est un miroir</value>
+  <data name="This is Tshirt" xml:space="preserve">
+    <value>Bonjour, c'est un Thsirt!</value>
   </data>
 </root>

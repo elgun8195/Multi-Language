@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Elgun\\Desktop\\MultiLanguage\\",
+  "WorkspaceRootPath": "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{714346D8-1806-49DB-8717-A6EBC761FC69}|MultiLanguage\\MultiLanguage.csproj|c:\\users\\elgun\\desktop\\multilanguage\\multilanguage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{714346D8-1806-49DB-8717-A6EBC761FC69}|MultiLanguage\\MultiLanguage.csproj|solutionrelative:multilanguage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{714346D8-1806-49DB-8717-A6EBC761FC69}|MultiLanguage\\MultiLanguage.csproj|c:\\users\\elgun\\desktop\\yazib sonra birlesdireceklerim\\multilanguage\\multilanguage\\resources\\sharedresource.tr-tr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{714346D8-1806-49DB-8717-A6EBC761FC69}|MultiLanguage\\MultiLanguage.csproj|solutionrelative:multilanguage\\resources\\sharedresource.tr-tr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{714346D8-1806-49DB-8717-A6EBC761FC69}|MultiLanguage\\MultiLanguage.csproj|c:\\users\\elgun\\desktop\\multilanguage\\multilanguage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{714346D8-1806-49DB-8717-A6EBC761FC69}|MultiLanguage\\MultiLanguage.csproj|solutionrelative:multilanguage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{714346D8-1806-49DB-8717-A6EBC761FC69}|MultiLanguage\\MultiLanguage.csproj|c:\\users\\elgun\\desktop\\yazib sonra birlesdireceklerim\\multilanguage\\multilanguage\\resources\\sharedresource.fr-fr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{714346D8-1806-49DB-8717-A6EBC761FC69}|MultiLanguage\\MultiLanguage.csproj|solutionrelative:multilanguage\\resources\\sharedresource.fr-fr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{714346D8-1806-49DB-8717-A6EBC761FC69}|MultiLanguage\\MultiLanguage.csproj|c:\\users\\elgun\\desktop\\multilanguage\\multilanguage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{714346D8-1806-49DB-8717-A6EBC761FC69}|MultiLanguage\\MultiLanguage.csproj|solutionrelative:multilanguage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{714346D8-1806-49DB-8717-A6EBC761FC69}|MultiLanguage\\MultiLanguage.csproj|c:\\users\\elgun\\desktop\\yazib sonra birlesdireceklerim\\multilanguage\\multilanguage\\resources\\sharedresource.en-us.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{714346D8-1806-49DB-8717-A6EBC761FC69}|MultiLanguage\\MultiLanguage.csproj|solutionrelative:multilanguage\\resources\\sharedresource.en-us.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714346D8-1806-49DB-8717-A6EBC761FC69}|MultiLanguage\\MultiLanguage.csproj|c:\\users\\elgun\\desktop\\yazib sonra birlesdireceklerim\\multilanguage\\multilanguage\\areas\\admin\\controllers\\resourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714346D8-1806-49DB-8717-A6EBC761FC69}|MultiLanguage\\MultiLanguage.csproj|solutionrelative:multilanguage\\areas\\admin\\controllers\\resourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Elgun\\Desktop\\MultiLanguage\\MultiLanguage\\appsettings.json",
-              "RelativeDocumentMoniker": "MultiLanguage\\appsettings.json",
-              "ToolTip": "C:\\Users\\Elgun\\Desktop\\MultiLanguage\\MultiLanguage\\appsettings.json",
-              "RelativeToolTip": "MultiLanguage\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-02T10:50:20.895Z",
+              "Title": "SharedResource.tr-TR.resx",
+              "DocumentMoniker": "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\MultiLanguage\\Resources\\SharedResource.tr-TR.resx",
+              "RelativeDocumentMoniker": "MultiLanguage\\Resources\\SharedResource.tr-TR.resx",
+              "ToolTip": "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\MultiLanguage\\Resources\\SharedResource.tr-TR.resx",
+              "RelativeToolTip": "MultiLanguage\\Resources\\SharedResource.tr-TR.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-24T20:18:11.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Elgun\\Desktop\\MultiLanguage\\MultiLanguage\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MultiLanguage\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Elgun\\Desktop\\MultiLanguage\\MultiLanguage\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MultiLanguage\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T10:31:04.755Z",
+              "Title": "SharedResource.fr-FR.resx",
+              "DocumentMoniker": "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\MultiLanguage\\Resources\\SharedResource.fr-FR.resx",
+              "RelativeDocumentMoniker": "MultiLanguage\\Resources\\SharedResource.fr-FR.resx",
+              "ToolTip": "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\MultiLanguage\\Resources\\SharedResource.fr-FR.resx",
+              "RelativeToolTip": "MultiLanguage\\Resources\\SharedResource.fr-FR.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-24T20:18:09.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Elgun\\Desktop\\MultiLanguage\\MultiLanguage\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MultiLanguage\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Elgun\\Desktop\\MultiLanguage\\MultiLanguage\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MultiLanguage\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAoAAACAmZmZmZkVwBoAAAAgAAAAAAAAAA==",
+              "Title": "SharedResource.en-US.resx",
+              "DocumentMoniker": "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\MultiLanguage\\Resources\\SharedResource.en-US.resx",
+              "RelativeDocumentMoniker": "MultiLanguage\\Resources\\SharedResource.en-US.resx",
+              "ToolTip": "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\MultiLanguage\\Resources\\SharedResource.en-US.resx",
+              "RelativeToolTip": "MultiLanguage\\Resources\\SharedResource.en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-24T20:18:08.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResourceController.cs",
+              "DocumentMoniker": "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\MultiLanguage\\Areas\\Admin\\Controllers\\ResourceController.cs",
+              "RelativeDocumentMoniker": "MultiLanguage\\Areas\\Admin\\Controllers\\ResourceController.cs",
+              "ToolTip": "C:\\Users\\Elgun\\Desktop\\yazib sonra birlesdireceklerim\\MultiLanguage\\MultiLanguage\\Areas\\Admin\\Controllers\\ResourceController.cs",
+              "RelativeToolTip": "MultiLanguage\\Areas\\Admin\\Controllers\\ResourceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T10:29:33.193Z",
+              "WhenOpened": "2024-10-24T18:00:54.393Z",
               "EditorCaption": ""
             }
           ]

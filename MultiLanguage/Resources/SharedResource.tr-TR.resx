@@ -117,13 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Welcome">
-    <value>weljel</value>
+  <data name="Welcome" xml:space="preserve">
+    <value>Hos geldiniz</value>
   </data>
-  <data name="Salam bu bir qaycidir">
-    <value>Selam bu bir makastir</value>
-  </data>
-  <data name="Salam bu bir guzgudur">
-    <value>Selam bu bir aynadir</value>
+  <data name="This is Tshirt" xml:space="preserve">
+    <value>Bu bir tişörtdür!</value>
   </data>
 </root>
